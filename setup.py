@@ -35,7 +35,7 @@ setup(
     version=__version__,  # noqa
     author='OpenAI Robotics Team',
     author_email='robotics@openai.com',
-    url='https://github.com/openai/mujoco-py',
+    url='https://github.com/elenimath/mujoco-py',
     packages=packages,
     include_package_data=True,
     cmdclass={'build': Build},
